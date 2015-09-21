@@ -156,6 +156,7 @@
 		824DAB5F1BAF600300136641 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = svork;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				824DAB881BAF600300136641 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		824DAB891BAF600300136641 /* Build configuration list for PBXNativeTarget "iOSgithubfunTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				824DAB8B1BAF600300136641 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
